@@ -26,7 +26,7 @@ The script identifies and optimizes mount options (permissions, UID/GID) for the
 ## 🔧 Installation
  - **Copy all the ArkOS or dArkOS system folders** to your USB or SD2 drive. (from ArkOs system folder or run Folder Creation Script.bat in your USB or sd2) 
  - **Place the games** you want in the corresponding folders.
- - **Transfer** the script on roms/tools.
+ - **Transfer USB Games.sh script** on roms/tools.
 - **Run the script**
 - **Insert** your USB or SD2
 
