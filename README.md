@@ -31,3 +31,7 @@ The script identifies and optimizes mount options (permissions, UID/GID) for the
 - **Insert** your USB or SD2
 
   Enjoy
+
+### ☕ A coffee to offer?
+
+[https://ko-fi.com/jason3x](https://ko-fi.com/jason3x)
